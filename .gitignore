@@ -9,10 +9,10 @@ profile_default/
 ipython_config.py
 
 # Pickle Files
-*.p
+pickle_files/*
 
 # Created CSV files
-dist_csv/
+dist_csv/*
 
 # No clue what this is
 __pycache__/
