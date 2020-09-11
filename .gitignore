@@ -13,6 +13,7 @@ pickle_files/*
 
 # Created CSV files
 dist_csv/*
+pairwise_csv/*
 
 # Large File
 data_sources/ProteomeHD_StringDB_700_validation.csv
