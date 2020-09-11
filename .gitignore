@@ -13,12 +13,17 @@ pickle_files/*
 
 # Created CSV files
 dist_csv/*
+tom_optimized_csv/*
 
 # Large File
 data_sources/ProteomeHD_StringDB_700_validation.csv
 
 # No clue what this is
 __pycache__/
+
+# R stuff
+.RHistory
+
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/

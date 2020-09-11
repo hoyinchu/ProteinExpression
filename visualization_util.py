@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.metrics import roc_curve
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import precision_recall_curve
-from sklearn.metrics import PrecisionRecallDisplay
 import matplotlib.pyplot as plt
 from sklearn.metrics import auc
 import copy
